@@ -8,7 +8,8 @@
 
 ```bash
 # 克隆本仓库
-$ git clone https://github.com/lovefc/xiaohui.git or git clone https://gitee.com/lovefc/xiaohui.git
+$ git clone https://github.com/lovefc/xiaohui.git 
+  git clone https://gitee.com/lovefc/xiaohui.git
 
 # 安装依赖
 $ npm install webpack -g
